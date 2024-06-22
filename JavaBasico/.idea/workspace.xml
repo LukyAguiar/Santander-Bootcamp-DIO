@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae2b7743-5fa7-4b9c-b36c-7a1af913405e" name="Changes" comment="" />
+    <list default="true" id="ae2b7743-5fa7-4b9c-b36c-7a1af913405e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../POO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/.idea/POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/classe/classe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/classe/src/dto/Cor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/classe/src/dto/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/classe/src/dto/Lanche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/classe/src/dto/Sexo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/classe/src/dto/Suco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Santander-Bootcamp-DIO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
