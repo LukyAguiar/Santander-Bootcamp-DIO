@@ -2,23 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae2b7743-5fa7-4b9c-b36c-7a1af913405e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../POO/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/.idea/POO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/classe/classe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/classe/src/dto/Cor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/classe/src/dto/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/classe/src/dto/Lanche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/classe/src/dto/Sexo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../POO/classe/src/dto/Suco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Santander-Bootcamp-DIO.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/getterSetter/getterSetter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO/getterSetter/src/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POO/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../POO/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/out/production/visibilidadeDosRecursos/Estabelecimento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/out/production/visibilidadeDosRecursos/com/lanchonete/model/Almoxarife.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/out/production/visibilidadeDosRecursos/com/lanchonete/model/Atendente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/out/production/visibilidadeDosRecursos/com/lanchonete/model/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/out/production/visibilidadeDosRecursos/com/lanchonete/model/Cozinheiro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/visibilidadeDosRecursos/src/Estabelecimento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POO/visibilidadeDosRecursos/src/Estabelecimento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/visibilidadeDosRecursos/src/com/lanchonete/area/cliente/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POO/visibilidadeDosRecursos/src/com/lanchonete/area/cliente/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/visibilidadeDosRecursos/src/com/lanchonete/atendimento/Atendente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POO/visibilidadeDosRecursos/src/com/lanchonete/atendimento/Atendente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/visibilidadeDosRecursos/src/com/lanchonete/atendimento/cozinha/Almoxarife.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POO/visibilidadeDosRecursos/src/com/lanchonete/atendimento/cozinha/Almoxarife.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../POO/visibilidadeDosRecursos/src/com/lanchonete/atendimento/cozinha/Cozinheiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../POO/visibilidadeDosRecursos/src/com/lanchonete/atendimento/cozinha/Cozinheiro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +33,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
